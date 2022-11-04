@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.tela{
+  text-align: center;
+}
+.img{
+  margin:auto;
+  width:600px;
+  height:600px;
+}
+.seta{
+  
+  width:100px;
+  height:100px;
+}
+.ini{
+  margin:20px;
+  width:100px;
+  height:100px;
+}
+.butao{
+  background-color:;
+  
+}
+#foto{
+  width:600px;
+  height:600px;
+}
